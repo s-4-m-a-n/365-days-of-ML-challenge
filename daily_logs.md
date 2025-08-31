@@ -301,3 +301,7 @@ Its been a long since I hold this 365 days of ML challenge, so I decided to cont
 - Today I learned about vision projector, CLIP architecture, mixture-of-experts and instruction fine-tunning (will prepare a proper documentation in these topics in future)
 - Completed the documentation of RNN architecture
 
+
+# Day 20
+✅ Daily logs
+- Today I implemented venilla encoder-decoder without attention mechanism architecture, still need to cleanup and add few think as well as will add proper documentation tomorrow. 
