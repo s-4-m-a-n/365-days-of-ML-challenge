@@ -305,3 +305,8 @@ Its been a long since I hold this 365 days of ML challenge, so I decided to cont
 # Day 20
 ✅ Daily logs
 - Today I implemented venilla encoder-decoder without attention mechanism architecture, still need to cleanup and add few think as well as will add proper documentation tomorrow. 
+
+# Day 21
+✅ Daily logs
+- Completed remaing part of seq2seq model for language translator and trained the model on larger dataset (still on going)
+- Went through CLIP paper, and prepare a summary of it

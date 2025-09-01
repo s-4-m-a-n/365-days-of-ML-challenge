@@ -176,3 +176,5 @@ kaggle.json
 **/*.jpeg
 **/model/
 **/clip_vit_base_model/
+*.zip
+*.pth
