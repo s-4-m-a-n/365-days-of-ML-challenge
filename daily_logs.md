@@ -310,3 +310,6 @@ Its been a long since I hold this 365 days of ML challenge, so I decided to cont
 ✅ Daily logs
 - Completed remaing part of seq2seq model for language translator and trained the model on larger dataset (still on going)
 - Went through CLIP paper, and prepare a summary of it
+
+# Day 22
+skipped for today
