@@ -313,3 +313,7 @@ Its been a long since I hold this 365 days of ML challenge, so I decided to cont
 
 # Day 22
 skipped for today
+
+# Day 23
+✅ Daily logs
+- Today I worked on one of the task associated with our research paper (sorry cannot reveal here).
