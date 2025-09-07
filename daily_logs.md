@@ -322,6 +322,9 @@ skipped for today
 ✅ Daily logs
 - Today I worked on our research paper (sorry cannot reveal here).
 
+# Day 25
+✅ Daily logs
+- Today I covered multiple research paper for a new research work.
 
 
 
