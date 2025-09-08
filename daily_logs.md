@@ -329,7 +329,8 @@ skipped
 ✅ Daily logs
 - Today I covered multiple research paper for a new research work.
 
-
+# Day 26
+skipped; unable to concentrate due to today's incident
 
 
 
