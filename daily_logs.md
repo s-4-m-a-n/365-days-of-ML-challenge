@@ -335,6 +335,10 @@ skipped; unable to concentrate due to today's incident
 # Day 27
 skipped; unable to concentrate due to ongoing incident
 
+# Day 28
+skipped; unable to concentrate due to ongoing incident
+
+
 
 
 
