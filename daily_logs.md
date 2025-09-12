@@ -341,7 +341,10 @@ skipped; unable to concentrate due to ongoing incident
 # Day 29
 skipped; unable to concentrate due to ongoing incident (most probably will resume from tomorrow)
 
-
+# Day 26
+✅ Daily logs
+- Today I went through few ViT papers, along with teacher-student model, and one dimensional Texture representation model.
+- Tomorrow, I will go throug few more papers and decide my new research area and probably topic. 
 
 
 
