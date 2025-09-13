@@ -346,6 +346,8 @@ skipped; unable to concentrate due to ongoing incident (most probably will resum
 - Today I went through few ViT papers, along with teacher-student model, and one dimensional Texture representation model.
 - Tomorrow, I will go throug few more papers and decide my new research area and probably topic. 
 
+# Day 27
+skipped 
 
 
 
