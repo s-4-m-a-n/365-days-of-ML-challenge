@@ -349,5 +349,11 @@ skipped; unable to concentrate due to ongoing incident (most probably will resum
 # Day 27
 skipped 
 
+# Day 27
+✅ Daily logs
+- Today I prepated summary of the papers "model compression" and "Distilling the Knowledge in a Neural Network"
+- I still need to add the summary of the 5.2 Specialist Models section of the distilling the knowledge in a NN papar
+
+
 
 
