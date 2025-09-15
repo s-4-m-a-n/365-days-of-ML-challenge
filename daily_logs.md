@@ -354,6 +354,11 @@ skipped
 - Today I prepated summary of the papers "model compression" and "Distilling the Knowledge in a Neural Network"
 - I still need to add the summary of the 5.2 Specialist Models section of the distilling the knowledge in a NN papar
 
+# Day 28
+✅ Daily logs
+- Coverted DINO and DINO v2 paper surfacely, will dive deep into it and write summary in comming days
+- also prepared resources of current on-going research work for the meeting with a professor
+
 
 
 
